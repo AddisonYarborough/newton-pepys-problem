@@ -22,3 +22,12 @@ In my approach, I throw all throws in sets of 6, rather than 12/18/etc. at the t
 This ends in the same result as if we were to do it the other way.
 
 For more history and a mathmatical explanation, visit [the wikipedia page](https://en.wikipedia.org/wiki/Newton%E2%80%93Pepys_problem#:~:text=The%20Newton%E2%80%93Pepys%20problem%20is,school%20teacher%20named%20John%20Smith.) for this problem.
+
+Running this test gives these results:
+
+#### Rolled all sets 1,000,000 times
+
+- Percentage of sets containing 1 throw that had at least 1 die landing on 6: 66.5682%
+- Percentage of sets containing 2 throws that had at least 2 die landing on 6: 61.9443%
+- Percentage of sets containing 3 throws that had at least 3 die landing on 6: 59.7407%
+
