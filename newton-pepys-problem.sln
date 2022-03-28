@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newton-pepys-problem", "newton-pepys-problem\newton-pepys-problem.csproj", "{A9AC501D-3708-4E13-92FA-B97D84E5D09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AC501D-3708-4E13-92FA-B97D84E5D09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AC501D-3708-4E13-92FA-B97D84E5D09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AC501D-3708-4E13-92FA-B97D84E5D09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AC501D-3708-4E13-92FA-B97D84E5D09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
